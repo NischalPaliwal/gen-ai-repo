@@ -38,4 +38,3 @@ def llm_model(user_query):
         contents=user_query
     )
     return response.text
-

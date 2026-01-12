@@ -17,6 +17,7 @@ def main():
             st.audio(audio_bytes)
             st.download_button(
                 label="Download Speech",
+                data=audio_bytes,
                 file_name="speech.mp3",
                 mime="audio/mp3"
             )
