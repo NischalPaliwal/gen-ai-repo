@@ -1,8 +1,0 @@
-SpeechRecognition
-pipwin
-pyaudio
-gTTS
-google-genai
-python-dotenv
-streamlit
--e .
